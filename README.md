@@ -1,16 +1,29 @@
-# Hi there, I'm Muhammad Anas Bin Azmi 👋
+<p align="center">
+  <img src="https://i.imgur.com/3ZQ3Z0J.png" alt="banner" />
+</p>
 
+<h1 align="center">Hi there, I'm Muhammad Anas Bin Azmi 👋</h1>
+
+<p align="center">
 🎓 Final Year Student | Bachelor of Information Systems (Hons.)  
 💻 Passionate about Web Development, Databases, and Building Real-World Solutions  
 🌱 Currently learning Backend Development, Database Optimization, and System Security.
+</p>
 
 ---
 
 ## 🚀 Skills
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: PHP (Yii2 Framework, Laravel)
-- **Database**: MySQL
-- **Tools**: Git, GitHub, XAMPP, Laragon
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?logoColor=white&style=flat" />
+</p>
 
 ---
 
@@ -21,12 +34,24 @@
 
 ---
 
-## 📫 Contact Me
-- Email: [anasazmi2702@gmail.com](mailto:anasazmi2702@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/muhammad-anas-azmi-b08a36299)
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anasazmi2702&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasazmi2702&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
+## 📫 Contact Me
+- Email: [anasazmi2702@gmail.com](mailto:anasazmi2702@gmail.com)
+- LinkedIn: [Muhammad Anas Bin Azmi](https://linkedin.com/in/muhammad-anas-azmi-b08a36299)
+
+---
+
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasazmi2702&show_icons=true&theme=tokyonight" alt="Anas Azmi's GitHub Stats" />
+  <img src="https://github.com/anasazmi2702/anasazmi2702/blob/output/github-contribution-grid-snake.svg" />
 </p>
