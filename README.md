@@ -50,5 +50,5 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/anasazmi2702/anasazmi2702/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/anasazmi2702/anasazmi2702/output/github-contribution-grid-snake.svg" />
 </p>
