@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="[https://i.imgur.com/3ZQ3Z0J.png]" alt="banner" />
-</p>
 
 <h1 align="center">Hi there, I'm Muhammad Anas Bin Azmi 👋</h1>
 
