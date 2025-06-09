@@ -47,7 +47,3 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anasazmi2702/anasazmi2702/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
-</p>
