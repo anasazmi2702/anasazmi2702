@@ -1,9 +1,8 @@
-
 <h1 align="center">Hi there, I'm Muhammad Anas Bin Azmi 👋</h1>
 
 <p align="center">
-🎓 Final Year Student | Bachelor of Information Systems (Hons.)  
-💻 Passionate about Web Development, Databases, and Building Real-World Solutions  
+🎓 Final Year Student | Bachelor of Information Systems (Hons.)<br>
+💻 Passionate about Web Development, Databases, and Building Real-World Solutions.<br>
 🌱 Currently learning Backend Development, Database Optimization, and System Security.
 </p>
 
@@ -11,15 +10,15 @@
 
 ## 🚀 Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat&logoColor=white" />
 </p>
 
 ---
@@ -43,12 +42,12 @@
 ---
 
 ## 📫 Contact Me
-- Email: [anasazmi2702@gmail.com](mailto:anasazmi2702@gmail.com)
-- LinkedIn: [Muhammad Anas Bin Azmi](https://linkedin.com/in/muhammad-anas-azmi-b08a36299)
+- 📧 Email: [anasazmi2702@gmail.com](mailto:anasazmi2702@gmail.com)
+- 🔗 LinkedIn: [Muhammad Anas Bin Azmi](https://linkedin.com/in/muhammad-anas-azmi-b08a36299)
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anasazmi2702/anasazmi2702/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/anasazmi2702/anasazmi2702/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
 </p>
